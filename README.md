@@ -469,6 +469,6 @@ If you find this repository helpful, please consider giving it a ⭐!
 
 ### ✅ Status: All Experiments Completed
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Harsh Chaudhary**
 
 </div>
