@@ -459,7 +459,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🌟 Star History
 
-If you find this repository helpful, please consider giving it a ⭐!
+If you find this repository helpful, please consider giving it a !
 
 ---
 
