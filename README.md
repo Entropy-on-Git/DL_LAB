@@ -162,7 +162,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Fully connected classifier with dropout and batch normalization
 
 - **Files:** `Ex6.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1AL0aatH63296LTCIZfIAtBHFFaPH2mo-?usp=drive_link)
 - **Concepts:** Regularization, Dropout, Batch Normalization
 - **Difficulty:** ⭐⭐ Intermediate
 
@@ -173,7 +173,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Visualize convolutions, pooling operations, and feature maps
 
 - **Files:** `Exp7.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1yIhCTR3FfnZ-jWwfcSKvKX98KwHvkvrS?usp=drive_link)
 - **Concepts:** Convolution, Pooling, Feature Extraction
 - **Difficulty:** ⭐⭐⭐ Advanced
 
@@ -184,7 +184,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Makeup vs No-Makeup classification with augmentation techniques
 
 - **Files:** `Exp8.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1Kl8zIxhTpDAUEeWNHXBqnvhx8AKacZ8O?usp=drive_link)
 - **Concepts:** Data Augmentation, Image Preprocessing
 - **Difficulty:** ⭐⭐ Intermediate
 
@@ -195,7 +195,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Deeper CNN architectures and performance optimization
 
 - **Files:** `convolutional-neural-network-cnn-tutorial.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1esM4rtOVYpizJEEFTZ-H6QRIcaQJW7FI?usp=drive_link)
 - **Concepts:** Deep CNNs, Architecture Design, Optimization
 - **Difficulty:** ⭐⭐⭐ Advanced
 
@@ -206,7 +206,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Object detection on Pascal VOC dataset
 
 - **Files:** `Exp10_FasterRCNN_ObjectDetection.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1nnT0A8qtJQpc19Hvniz5n_p7QF2FQiin?usp=drive_link)
 - **Concepts:** Region-based CNNs, Bounding Boxes, mAP
 - **Difficulty:** ⭐⭐⭐⭐ Expert
 
@@ -217,7 +217,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Semantic segmentation using U-Net architecture
 
 - **Files:** `unet_segmentation.ipynb`, `best_unet_model.pth`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1UMdnXFRID_8rn_n2kcmJrCkJlV-TMv2G?usp=drive_link)
 - **Concepts:** Semantic Segmentation, Encoder-Decoder, Skip Connections
 - **Difficulty:** ⭐⭐⭐⭐ Expert
 
@@ -228,7 +228,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Image reconstruction and compression using autoencoders
 
 - **Files:** `Pre_process.ipynb`, `model.py`, outputs
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/12TZGlIEzwz1h4ebUIjnQv_BW1zoj3tmX?usp=drive_link)
 - **Concepts:** Dimensionality Reduction, Reconstruction Loss
 - **Difficulty:** ⭐⭐⭐ Advanced
 
@@ -239,7 +239,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Generative modeling on Fashion-MNIST using VAE
 
 - **Files:** `model.py`, outputs
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1dY7hX0xAbpAWr1NXAyeC5P4ozXpKES3B?usp=drive_link)
 - **Concepts:** Latent Space, KL Divergence, Generative Models
 - **Difficulty:** ⭐⭐⭐⭐ Expert
 
@@ -250,7 +250,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Generate synthetic images using GAN architecture
 
 - **Files:** `model.py`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1dpX-u-Ji20hm-BIpXFOT6COnORDmsdZq?usp=drive_link)
 - **Concepts:** Generator, Discriminator, Adversarial Training
 - **Difficulty:** ⭐⭐⭐⭐ Expert
 
