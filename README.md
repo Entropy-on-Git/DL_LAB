@@ -118,7 +118,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Implement neurons, activation functions, and backpropagation for AND, XOR, and Iris dataset
 
 - **Files:** `EX 2.ipynb`, `Iris.csv`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1knZTRLM_nl9t5ofgkrbAlu20ylLZPBUo?usp=drive_link)
 - **Concepts:** Perceptrons, Activation Functions, Gradient Descent
 - **Difficulty:** ⭐⭐ Intermediate
 
@@ -129,7 +129,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Fashion-MNIST classification using Keras
 
 - **Files:** `Ex 3.ipynb`, CSV dataset files
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1JMv9-9XknKv4ay0V938YSd_VOm6mtUbO?usp=drive_link)
 - **Concepts:** Multi-class Classification, Softmax
 - **Difficulty:** ⭐⭐ Intermediate
 
@@ -140,7 +140,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** Binary classification of Cats vs Dogs using pre-trained ResNet50
 
 - **Files:** `Ex 4.ipynb`, images folder
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1NYiyQHdqnFN0nEu_xCWJT_H_TkiFbzgT?usp=drive_link)
 - **Concepts:** Transfer Learning, Fine-tuning, Feature Extraction
 - **Difficulty:** ⭐⭐⭐ Advanced
 
@@ -151,7 +151,7 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 > **Aim:** MNIST digit classification comparing SGD, Adam, and RMSProp optimizers
 
 - **Files:** `Ex 5.ipynb`
-- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/your-link-here)
+- **Dataset:** [📥 Download](https://drive.google.com/drive/folders/1ZB3nix9IsMp89vxqUAZCAoggpD6PZc3X?usp=drive_link)
 - **Concepts:** Optimization Algorithms, Learning Rate, Convergence
 - **Difficulty:** ⭐⭐ Intermediate
 
@@ -260,19 +260,19 @@ pip install tensorflow keras torch torchvision numpy pandas matplotlib scikit-le
 
 | Experiment | Dataset | Description |
 |------------|---------|-------------|
-| **Exp 2** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Iris Dataset |
-| **Exp 3** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Fashion-MNIST |
-| **Exp 4** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Cats vs Dogs |
-| **Exp 5** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | MNIST Digits |
-| **Exp 6** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Fashion-MNIST |
-| **Exp 7** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Fashion-MNIST |
-| **Exp 8** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Makeup Dataset |
-| **Exp 9** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | CNN Dataset |
-| **Exp 10** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Pascal VOC |
-| **Exp 11** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Segmentation Dataset |
-| **Exp 12** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | CelebA |
-| **Exp 13** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | Fashion-MNIST |
-| **Exp 14** | [📥 Download](https://drive.google.com/drive/folders/your-link-here) | GAN Dataset |
+| **Exp 2** | [📥 Download](https://drive.google.com/drive/folders/1knZTRLM_nl9t5ofgkrbAlu20ylLZPBUo?usp=drive_link) | Iris Dataset |
+| **Exp 3** | [📥 Download](https://drive.google.com/drive/folders/1JMv9-9XknKv4ay0V938YSd_VOm6mtUbO?usp=drive_link) | Fashion-MNIST |
+| **Exp 4** | [📥 Download](https://drive.google.com/drive/folders/1NYiyQHdqnFN0nEu_xCWJT_H_TkiFbzgT?usp=drive_link) | Cats vs Dogs |
+| **Exp 5** | [📥 Download](https://drive.google.com/drive/folders/1ZB3nix9IsMp89vxqUAZCAoggpD6PZc3X?usp=drive_link) | MNIST Digits |
+| **Exp 6** | [📥 Download](https://drive.google.com/drive/folders/1AL0aatH63296LTCIZfIAtBHFFaPH2mo-?usp=drive_link) | Fashion-MNIST |
+| **Exp 7** | [📥 Download](https://drive.google.com/drive/folders/1yIhCTR3FfnZ-jWwfcSKvKX98KwHvkvrS?usp=drive_link) | Fashion-MNIST |
+| **Exp 8** | [📥 Download](https://drive.google.com/drive/folders/1Kl8zIxhTpDAUEeWNHXBqnvhx8AKacZ8O?usp=drive_link) | Makeup Dataset |
+| **Exp 9** | [📥 Download](https://drive.google.com/drive/folders/1esM4rtOVYpizJEEFTZ-H6QRIcaQJW7FI?usp=drive_link) | CNN Dataset |
+| **Exp 10** | [📥 Download](https://drive.google.com/drive/folders/1nnT0A8qtJQpc19Hvniz5n_p7QF2FQiin?usp=drive_link) | Pascal VOC |
+| **Exp 11** | [📥 Download](https://drive.google.com/drive/folders/1UMdnXFRID_8rn_n2kcmJrCkJlV-TMv2G?usp=drive_link) | Segmentation Dataset |
+| **Exp 12** | [📥 Download](https://drive.google.com/drive/folders/12TZGlIEzwz1h4ebUIjnQv_BW1zoj3tmX?usp=drive_link) | CelebA |
+| **Exp 13** | [📥 Download](https://drive.google.com/drive/folders/1dY7hX0xAbpAWr1NXAyeC5P4ozXpKES3B?usp=drive_link) | Fashion-MNIST |
+| **Exp 14** | [📥 Download](https://drive.google.com/drive/folders/1dpX-u-Ji20hm-BIpXFOT6COnORDmsdZq?usp=drive_link) | GAN Dataset |
 
 ---
 
@@ -469,6 +469,6 @@ If you find this repository helpful, please consider giving it a ⭐!
 
 ### ✅ Status: All Experiments Completed
 
-**Made with ❤️ by Harsh Chaudhary**
+**Made with ❤️ by [Your Name]**
 
 </div>
